@@ -1,0 +1,1531 @@
+/etc/mdm/Xsession: Beginning session setup...
+localuser:alumno_solvam being added to access control list
+Script para none iniciada en run_im.
+Script para auto iniciada en run_im.
+Script para default iniciada en run_im.
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Failed to connect to the VirtualBox kernel service
+Script para none iniciada en run_im.
+Script para auto iniciada en run_im.
+Script para default iniciada en run_im.
+GNOME_KEYRING_CONTROL=/run/user/1002/keyring-cECsNu
+SSH_AUTH_SOCK=/run/user/1002/keyring-cECsNu/ssh
+GNOME_KEYRING_CONTROL=/run/user/1002/keyring-cECsNu
+SSH_AUTH_SOCK=/run/user/1002/keyring-cECsNu/ssh
+GPG_AGENT_INFO=/run/user/1002/keyring-cECsNu/gpg:0:1
+GNOME_KEYRING_CONTROL=/run/user/1002/keyring-cECsNu
+SSH_AUTH_SOCK=/run/user/1002/keyring-cECsNu/ssh
+GNOME_KEYRING_CONTROL=/run/user/1002/keyring-cECsNu
+SSH_AUTH_SOCK=/run/user/1002/keyring-cECsNu/ssh
+GPG_AGENT_INFO=/run/user/1002/keyring-cECsNu/gpg:0:1
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== auto-configure - xinerama mode Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+ * Epoptes-client connecting to 128.1.64.100:789...
+   ...done.
+Command line is not complete. Try option "help"
+nm-applet-Message: using fallback from indicator to GtkStatusIcon
+Cjs-Message: JS LOG: About to start Cinnamon
+Window manager warning: Trying to remove non-existent custom keybinding "magnifier-zoom-in".
+Window manager warning: Trying to remove non-existent custom keybinding "magnifier-zoom-out".
+Cjs-Message: JS LOG: Cinnamon started at Thu Mar 09 2017 08:06:32 GMT+0100 (CET)
+Cjs-Message: JS LOG: network applet: Cannot find connection for active (or connection cannot be read)
+mintUpdate: proceso no encontrado
+
+** (nemo:2534): WARNING **: Can not determine workarea, guessing at layout
+failed to create drawable
+Cjs-Message: JS LOG: network applet: Found connection for active
+Nemo-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permiso denegado
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600001 (Nueva pest)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600001 (Nueva pest)
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+Window manager warning: La ventana 0x2e00008 (Eclipse) ha establecido la propiedad MWM indicando que no es redimensionable, pero configuró el tamaño mínimo a 452 x 302 y el tamaño máximo a 2147483647 x 2147483647 ; esto no tiene mucho sentido.
+Window manager warning: La ventana 0x2e00008 (Eclipse ) ha establecido la propiedad MWM indicando que no es redimensionable, pero configuró el tamaño mínimo a 452 x 302 y el tamaño máximo a 2147483647 x 2147483647 ; esto no tiene mucho sentido.
+Window manager warning: La ventana 0x2e00008 (Eclipse ) ha establecido la propiedad MWM indicando que no es redimensionable, pero configuró el tamaño mínimo a 452 x 302 y el tamaño máximo a 2147483647 x 2147483647 ; esto no tiene mucho sentido.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/alumno_solvam/Escritorio/sergio progra/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://460.fwk1962826086:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://460.fwk1962826086:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+org.eclipse.m2e.logback.configuration: Initializing logback
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00008 (Eclipse )
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00ebe (Progress I)
+Exception in thread "AWT-EventQueue-0" java.lang.NullPointerException
+	at java.awt.Component$BltBufferStrategy.revalidate(Component.java:4456)
+	at java.awt.Component$BltBufferStrategy.revalidate(Component.java:4433)
+	at java.awt.Component$BltBufferStrategy.getDrawGraphics(Component.java:4353)
+	at javax.swing.BufferStrategyPaintManager.prepare(BufferStrategyPaintManager.java:522)
+	at javax.swing.BufferStrategyPaintManager.paint(BufferStrategyPaintManager.java:276)
+	at javax.swing.RepaintManager.paint(RepaintManager.java:1272)
+	at javax.swing.JComponent.paint(JComponent.java:1042)
+	at java.awt.GraphicsCallback$PaintCallback.run(GraphicsCallback.java:39)
+	at sun.awt.SunGraphicsCallback.runOneComponent(SunGraphicsCallback.java:79)
+	at sun.awt.SunGraphicsCallback.runComponents(SunGraphicsCallback.java:116)
+	at java.awt.Container.paint(Container.java:1975)
+	at java.awt.Window.paint(Window.java:3912)
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:842)
+	at javax.swing.RepaintManager$4.run(RepaintManager.java:814)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:814)
+	at javax.swing.RepaintManager.paintDirtyRegions(RepaintManager.java:789)
+	at javax.swing.RepaintManager.prePaintDirtyRegions(RepaintManager.java:738)
+	at javax.swing.RepaintManager.access$1200(RepaintManager.java:64)
+	at javax.swing.RepaintManager$ProcessingRunnable.run(RepaintManager.java:1732)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e22ef8 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e235c7 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e2435e (Save and L)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e272cf (Save and L)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e27a3a (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e2abc4 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e2c95b (New Java P)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e2d687 (New    )
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e2e107 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e39376 (Color choo)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e3e798 (model  )
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e3f3fb (model  )
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e402db (Save and L)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e431fd (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e44ab9 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e49383 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e4a503 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e4d725 (Save and L)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e4e111 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e55291 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e56862 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e58f5a (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e5a4a7 (Confirm Ex)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00498 (sergio pro)
+org.eclipse.m2e.logback.configuration: The org.eclipse.m2e.logback.configuration bundle was activated before the state location was initialized.  Will retry after the state location is initialized.
+Window manager warning: La ventana 0x2e00008 (Eclipse) ha establecido la propiedad MWM indicando que no es redimensionable, pero configuró el tamaño mínimo a 452 x 302 y el tamaño máximo a 2147483647 x 2147483647 ; esto no tiene mucho sentido.
+Window manager warning: La ventana 0x2e00008 (Eclipse ) ha establecido la propiedad MWM indicando que no es redimensionable, pero configuró el tamaño mínimo a 452 x 302 y el tamaño máximo a 2147483647 x 2147483647 ; esto no tiene mucho sentido.
+Window manager warning: La ventana 0x2e00008 (Eclipse ) ha establecido la propiedad MWM indicando que no es redimensionable, pero configuró el tamaño mínimo a 452 x 302 y el tamaño máximo a 2147483647 x 2147483647 ; esto no tiene mucho sentido.
+org.eclipse.m2e.logback.configuration: Logback config file: /home/alumno_solvam/Escritorio/sergio progra/.metadata/.plugins/org.eclipse.m2e.logback.configuration/logback.1.7.0.20160603-1933.xml
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [bundleresource://460.fwk1962826086:1/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [bundleresource://460.fwk1962826086:2/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [ch.qos.logback.classic.util.ContextSelectorStaticBinder]
+org.eclipse.m2e.logback.configuration: Initializing logback
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00008 (Eclipse )
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00ba8 (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e02faa (String edi)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e08dc6 (String edi)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e09917 (Save and L)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+org.eclipse.wb.internal.core.utils.exception.DesignerException: 205 (Unable to parse source.). 
+		list.setBounds(43, 30, 1, 1); line: 16 The serializable class ejer1 does not declare a static final serialVersionUID field of type long
+line: 23 list cannot be resolved
+	at org.eclipse.wb.internal.core.utils.ast.AstParser.parseStatement(AstParser.java:162)
+	at org.eclipse.wb.internal.core.utils.ast.AstEditor.addStatement(AstEditor.java:1625)
+	at org.eclipse.wb.internal.core.utils.ast.AstEditor.addStatement(AstEditor.java:1579)
+	at org.eclipse.wb.core.model.JavaInfo.addExpressionStatement(JavaInfo.java:987)
+	at org.eclipse.wb.core.model.JavaInfo.addMethodInvocation(JavaInfo.java:951)
+	at org.eclipse.wb.core.model.JavaInfo.addMethodInvocation(JavaInfo.java:926)
+	at org.eclipse.wb.internal.swing.model.layout.absolute.AbsoluteLayoutInfo.command_BOUNDS0(AbsoluteLayoutInfo.java:345)
+	at org.eclipse.wb.internal.swing.model.layout.absolute.AbsoluteLayoutInfo.command_BOUNDS(AbsoluteLayoutInfo.java:243)
+	at org.eclipse.wb.internal.swing.gef.policy.layout.AbsoluteLayoutEditPolicy$3.executeEdit(AbsoluteLayoutEditPolicy.java:237)
+	at org.eclipse.wb.core.gef.command.EditCommand$1.run(EditCommand.java:52)
+	at org.eclipse.wb.internal.core.utils.execution.ExecutionUtils.run(ExecutionUtils.java:324)
+	at org.eclipse.wb.core.gef.command.EditCommand.execute(EditCommand.java:50)
+	at org.eclipse.wb.internal.gef.core.EditDomain.executeCommand(EditDomain.java:59)
+	at org.eclipse.wb.gef.core.tools.Tool.executeCommand(Tool.java:209)
+	at org.eclipse.wb.gef.core.tools.AbstractCreationTool.handleButtonUp(AbstractCreationTool.java:62)
+	at org.eclipse.wb.gef.core.tools.Tool.mouseUp(Tool.java:395)
+	at org.eclipse.wb.internal.gef.core.EditDomain.mouseUp(EditDomain.java:255)
+	at org.eclipse.wb.internal.gef.graphical.EditEventManager.mouseUp(EditEventManager.java:149)
+	at sun.reflect.GeneratedMethodAccessor178.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.wb.internal.draw2d.EventManager$8.invoke(EventManager.java:325)
+	at com.sun.proxy.$Proxy20.mouseUp(Unknown Source)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:221)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:5219)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1340)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4553)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:4143)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+Caused by: org.eclipse.wb.internal.core.utils.exception.DesignerException: 205 (Unable to parse source.). package ventanas2;
+import java.awt.BorderLayout;
+import java.awt.EventQueue;
+import javax.swing.JFrame;
+import javax.swing.JPanel;
+import javax.swing.border.EmptyBorder;
+import javax.swing.JComboBox;
+import javax.swing.JButton;
+import java.awt.Panel;
+import java.awt.Color;
+import javax.swing.DefaultComboBoxModel;
+import java.awt.event.ComponentAdapter;
+import java.awt.event.ComponentEvent;
+import java.awt.TextArea;
+import javax.swing.JList;
+class ejer1 extends JFrame {
+javax.swing.JPanel contentPane=(javax.swing.JPanel) null;
+public static void main(String[] args) {}
+ejer1(Object __wbp_param) {
+super();javax.swing.JButton btnCopy = (javax.swing.JButton) null;
+java.awt.Panel panel = (java.awt.Panel) null;
+
+		list.setBounds(43, 30, 1, 1);}
+} line: 16 The serializable class ejer1 does not declare a static final serialVersionUID field of type long
+line: 23 list cannot be resolved
+	at org.eclipse.wb.internal.core.utils.ast.AstParser.findNode(AstParser.java:773)
+	at org.eclipse.wb.internal.core.utils.ast.AstParser.parseStatement(AstParser.java:159)
+	... 50 more
+Caused by: org.eclipse.wb.internal.core.utils.check.AssertionFailedException: null argument
+	at org.eclipse.wb.internal.core.utils.check.Assert.fail(Assert.java:225)
+	at org.eclipse.wb.internal.core.utils.check.Assert.isNotNull(Assert.java:174)
+	at org.eclipse.wb.internal.core.utils.check.Assert.isNotNull(Assert.java:159)
+	at org.eclipse.wb.internal.core.utils.ast.AstParser$3.postVisit(AstParser.java:957)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:2714)
+	at org.eclipse.jdt.core.dom.ASTNode.acceptChild(ASTNode.java:2759)
+	at org.eclipse.jdt.core.dom.ExpressionStatement.accept0(ExpressionStatement.java:145)
+	at org.eclipse.jdt.core.dom.ASTNode.accept(ASTNode.java:2711)
+	at org.eclipse.wb.internal.core.utils.ast.AstParser.copyBindings(AstParser.java:925)
+	at org.eclipse.wb.internal.core.utils.ast.AstParser.findNode0(AstParser.java:827)
+	at org.eclipse.wb.internal.core.utils.ast.AstParser.findNode(AstParser.java:770)
+	... 51 more
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0c5cc (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0e835 (Color choo)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0e835 (Color choo)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e153fe (Progress I)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e18a4e (model  )
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e1b1b6 (Confirm Ex)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e0046b (sergio pro)
+ * Connection lost. Epoptes-client reconnecting to 128.1.64.100:789...
+   ...done.
+Command line is not complete. Try option "help"
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+** Message: USERDATADIR= /home/alumno_solvam/.config/Brackets/live-dev-profile
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+[7544:7544:0309/103923:ERROR:url_pattern_set.cc(240)] Invalid url pattern: chrome://print/*
+[7578:7578:0309/093924:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68E82DF8]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[7578:7578:0309/094001:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:688471F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+** Message: USERDATADIR= /home/alumno_solvam/.config/Brackets/live-dev-profile
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+[7578:7578:0309/094523:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:688071F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+Se ha abierto una nueva ventana en la sesión actual del navegador.
+
+(vino-server:7794): EggSMClient-CRITICAL **: egg_sm_client_set_mode: assertion 'global_client == NULL || global_client_mode == EGG_SM_CLIENT_MODE_DISABLED' failed
+09/03/2017 10:45:56 WARNING: Width (1366) is not a multiple of 4. VncViewer has problems with that.
+09/03/2017 10:45:56 Autoprobing TCP port in (all) network interface
+09/03/2017 10:45:56 Listening IPv6://[::]:5900
+09/03/2017 10:45:56 Listening IPv4://0.0.0.0:5900
+09/03/2017 10:45:56 Autoprobing selected port 5900
+09/03/2017 10:45:56 Advertising security type: 'TLS' (18)
+09/03/2017 10:45:56 Re-binding socket to listen for VNC connections on TCP port 5900 in (all) interface
+09/03/2017 10:45:56 Listening IPv6://[::]:5900
+09/03/2017 10:45:56 Listening IPv4://0.0.0.0:5900
+09/03/2017 10:45:56 Clearing securityTypes
+09/03/2017 10:45:56 Advertising security type: 'TLS' (18)
+09/03/2017 10:45:56 Clearing securityTypes
+09/03/2017 10:45:56 Advertising security type: 'TLS' (18)
+09/03/2017 10:45:56 Advertising authentication type: 'No Authentication' (1)
+09/03/2017 10:45:56 Re-binding socket to listen for VNC connections on TCP port 5900 in (all) interface
+09/03/2017 10:45:56 Listening IPv6://[::]:5900
+09/03/2017 10:45:56 Listening IPv4://0.0.0.0:5900
+09/03/2017 10:45:56 [IPv4] Got connection from client 128.1.64.14
+09/03/2017 10:45:56   other clients:
+09/03/2017 10:45:56 WARNING: New width (1366) is not a multiple of 4.
+09/03/2017 10:45:56 Client Protocol Version 3.7
+09/03/2017 10:45:56 Advertising security type 18
+09/03/2017 10:45:56 Client returned security type 18
+09/03/2017 10:45:56 Advertising authentication type 1
+09/03/2017 10:45:57 Client returned authentication type 1
+09/03/2017 10:45:57 rfbProcessClientNormalMessage: ignoring unknown encoding type -258
+09/03/2017 10:45:57 Enabling NewFBSize protocol extension for client 128.1.64.14
+09/03/2017 10:45:57 rfbProcessClientNormalMessage: ignoring unknown encoding type 1464686185
+09/03/2017 10:45:57 rfbProcessClientNormalMessage: ignoring unknown encoding type -259
+09/03/2017 10:45:57 rfbProcessClientNormalMessage: ignoring unknown encoding type -257
+09/03/2017 10:45:59 [IPv4] Got connection from client 128.1.64.13
+09/03/2017 10:45:59   other clients:
+09/03/2017 10:45:59      128.1.64.14
+09/03/2017 10:45:59 Client Protocol Version 3.7
+09/03/2017 10:45:59 Advertising security type 18
+09/03/2017 10:45:59 Client returned security type 18
+09/03/2017 10:45:59 Advertising authentication type 1
+09/03/2017 10:45:59 Client returned authentication type 1
+09/03/2017 10:45:59 rfbProcessClientNormalMessage: ignoring unknown encoding type -258
+09/03/2017 10:45:59 Enabling NewFBSize protocol extension for client 128.1.64.13
+09/03/2017 10:45:59 rfbProcessClientNormalMessage: ignoring unknown encoding type 1464686185
+09/03/2017 10:45:59 rfbProcessClientNormalMessage: ignoring unknown encoding type -259
+09/03/2017 10:45:59 rfbProcessClientNormalMessage: ignoring unknown encoding type -257
+[7578:7578:0309/094603:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68D404FC]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[1489043175,000,xklavier.c:xkl_engine_start_listen/] 	The backend does not require manual layout management - but it is provided by the application
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+Agent unregistration failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "UnregisterAgent" with signature "o" on interface "org.bluez.Adapter" doesn't exist
+ 'g-io-error-quark'
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== auto-configure - xinerama mode Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+09/03/2017 11:24:13 rfbProcessClientNormalMessage: read: Conexión reinicializada por la máquina remota
+09/03/2017 11:24:13 Client 128.1.64.13 gone
+09/03/2017 11:24:13 Statistics:
+09/03/2017 11:24:13   key events received 0, pointer events 146
+09/03/2017 11:24:13   framebuffer updates 315, rectangles 1201, bytes 10766366
+09/03/2017 11:24:13     tight rectangles 1201, bytes 10766366
+09/03/2017 11:24:13   raw bytes equivalent 148661868, compression ratio 13,807989
+09/03/2017 11:28:20 rfbProcessClientNormalMessage: read: Recurso no disponible temporalmente
+09/03/2017 11:28:20 Client 128.1.64.14 gone
+09/03/2017 11:28:20 Statistics:
+09/03/2017 11:28:20   framebuffer updates 3926, rectangles 20777, bytes 103115915
+09/03/2017 11:28:20     tight rectangles 20777, bytes 103115915
+09/03/2017 11:28:20   raw bytes equivalent 43862160, compression ratio 0,425368
+09/03/2017 12:07:28 [IPv4] Got connection from client 128.1.64.14
+09/03/2017 12:07:28   other clients:
+09/03/2017 12:07:28 WARNING: New width (1366) is not a multiple of 4.
+09/03/2017 12:07:28 Client Protocol Version 3.7
+09/03/2017 12:07:28 Advertising security type 18
+09/03/2017 12:07:28 Client returned security type 18
+09/03/2017 12:07:28 Advertising authentication type 1
+09/03/2017 12:07:28 Client returned authentication type 1
+09/03/2017 12:07:28 rfbProcessClientNormalMessage: ignoring unknown encoding type -258
+09/03/2017 12:07:28 Enabling NewFBSize protocol extension for client 128.1.64.14
+09/03/2017 12:07:28 rfbProcessClientNormalMessage: ignoring unknown encoding type 1464686185
+09/03/2017 12:07:28 rfbProcessClientNormalMessage: ignoring unknown encoding type -259
+09/03/2017 12:07:28 rfbProcessClientNormalMessage: ignoring unknown encoding type -257
+Nemo-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permiso denegado
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+** Message: USERDATADIR= /home/alumno_solvam/.config/Brackets/live-dev-profile
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+Se ha abierto una nueva ventana en la sesión actual del navegador.
+[7578:7578:0309/111053:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:688871F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[7578:7578:0309/111133:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68D804FC]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[7578:7578:0309/114720:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68D404FC]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[7578:7578:0309/114723:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68E804FC]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[7578:7578:0309/114726:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68E404FC]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+
+(nemo:2534): CinnamonDesktop-WARNING **: Unable to create loader for mime type image/vnd.microsoft.icon: No se ha reconocido el formato de imagen del archivo
+
+(eog:9349): EOG-WARNING **: Couldn't load icon: Error writing
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+Se ha abierto una nueva ventana en la sesión actual del navegador.
+09/03/2017 12:59:37 rfbSendUpdateBuf: write: Tubería rota
+09/03/2017 12:59:37 Client 128.1.64.14 gone
+09/03/2017 12:59:37 Statistics:
+09/03/2017 12:59:37   framebuffer updates 19581, rectangles 111383, bytes 902365319
+09/03/2017 12:59:37     tight rectangles 111383, bytes 902365319
+09/03/2017 12:59:37   raw bytes equivalent 361372704, compression ratio 0,400473
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+Agent unregistration failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "UnregisterAgent" with signature "o" on interface "org.bluez.Adapter" doesn't exist
+ 'g-io-error-quark'
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== auto-configure - xinerama mode Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=350m; support was removed in 8.0
+Window manager warning: WM_TRANSIENT_FOR inválido para la ventana 0x2e00024 especificada para 0x2e0002b ( ).
+[   8981]   WARN - api.vfs.impl.local.FileWatcher - Native file watcher is not executable: <a href="/home/alumno_solvam/Escritorio/android-studio/bin/fsnotifier64">/home/alumno_solvam/Escritorio/android-studio/bin/fsnotifier64</a> 
+Loading library manifest /tmp/manifmerge0.xml
+Merging main manifest /home/alumno_solvam/AndroidStudioProjects/Listview/app/src/main/AndroidManifest.xml
+Merging library manifest /tmp/manifmerge0.xml
+Merging manifest with lower manifmerge0.xml:1:1
+Merging application with lower manifmerge0.xml:3:5
+Warning: /tmp/manifmerge0.xml:1:1 Warning:
+	Missing 'package' declaration in manifest at manifmerge0.xml:1:1
+08:37:43.832 [Connection worker] DEBUG o.g.t.i.provider.DefaultConnection - Tooling API provider 2.2.1 created.
+08:37:45.710 [Connection worker] DEBUG o.g.t.i.provider.ProviderConnection - Configuring logging to level: INFO
+Tooling API is using target Gradle version: 2.2.1.
+Tooling API is using target Gradle version: 2.2.1.
+Starting Gradle daemon
+Starting process 'command '/usr/lib/jvm/default-java/bin/java''. Working directory: /home/alumno_solvam/AndroidStudioProjects/Listview Command: /usr/lib/jvm/default-java/bin/java -version
+Successfully started process 'command '/usr/lib/jvm/default-java/bin/java''
+Starting daemon process: workingDir = /home/alumno_solvam/.gradle/daemon/2.2.1, daemonArgs: [/usr/lib/jvm/default-java/bin/java, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=UTF-8, -Duser.country=ES, -Duser.language=es, -Duser.variant, -cp, /home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-launcher-2.2.1.jar, org.gradle.launcher.daemon.bootstrap.GradleDaemon, 2.2.1, /home/alumno_solvam/.gradle/daemon, 10800000, 54497e47-f809-4356-8107-06f9c9ef13bd, -XX:MaxPermSize=256m, -XX:+HeapDumpOnOutOfMemoryError, -Xmx1024m, -Dfile.encoding=UTF-8, -Duser.country=ES, -Duser.language=es, -Duser.variant]
+Starting process 'Gradle build daemon'. Working directory: /home/alumno_solvam/.gradle/daemon/2.2.1 Command: /usr/lib/jvm/default-java/bin/java -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=UTF-8 -Duser.country=ES -Duser.language=es -Duser.variant -cp /home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-launcher-2.2.1.jar org.gradle.launcher.daemon.bootstrap.GradleDaemon 2.2.1 /home/alumno_solvam/.gradle/daemon 10800000 54497e47-f809-4356-8107-06f9c9ef13bd -XX:MaxPermSize=256m -XX:+HeapDumpOnOutOfMemoryError -Xmx1024m -Dfile.encoding=UTF-8 -Duser.country=ES -Duser.language=es -Duser.variant
+Successfully started process 'Gradle build daemon'
+An attempt to start the daemon took 3.283 secs.
+Connected to daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=false, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=c5338b33-62de-4aa1-bc49-fe445f68637b.1, currentDir=/home/alumno_solvam/AndroidStudioProjects/Listview}.
+
+BUILD SUCCESSFUL
+
+Total time: 28.046 secs
+Received result DaemonCommandResult[type=Success, value=org.gradle.tooling.internal.provider.BuildActionResult@26828cb6] from daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=false, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}.
+Creating ClassLoader af65e31f-a619-4e59-ba4a-811fbfa35638 from system and [org.gradle.internal.classloader.FilteringClassLoader@662d5f09].
+Creating ClassLoader 202078a5-2996-40a4-b91b-4489af77ae28 from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/ant-1.9.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/ant-launcher-1.9.3.jar]] and [org.gradle.internal.classloader.FilteringClassLoader@662d5f09].
+Creating ClassLoader a1141e79-1945-4fb4-83b9-183db72946b6 from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-launcher-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/slf4j-api-1.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-base-services-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/guava-jdk5-17.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-core-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/groovy-all-2.3.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/asm-all-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/ant-1.9.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/commons-collections-3.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/commons-io-1.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/commons-lang-2.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/logback-core-1.0.13.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/logback-classic-1.0.13.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jcip-annotations-1.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jul-to-slf4j-1.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jarjar-1.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/javax.inject-1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/log4j-over-slf4j-1.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jcl-over-slf4j-1.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/ant-launcher-1.9.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-docs-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-model-core-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-model-groovy-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-base-services-groovy-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-cli-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-native-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jna-3.2.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jansi-1.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-osx-i386-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-osx-amd64-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-linux-amd64-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-linux-i386-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-windows-amd64-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-windows-i386-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-freebsd-i386-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/native-platform-freebsd-amd64-0.10.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-messaging-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/kryo-2.20.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/reflectasm-1.07-shaded.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/minlog-1.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/objenesis-1.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-resources-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-ui-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/dom4j-1.6.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jaxen-1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-open-api-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-tooling-api-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-wrapper-2.2.1.jar]] and [org.gradle.tooling.internal.provider.ClientSidePayloadClassLoaderFactory$MixInClassLoader@4208317a].
+Creating ClassLoader b7617169-ee92-4ffe-94b5-aec1532356c3 from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-dependency-management-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-settings-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-repository-metadata-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-container-default-1.5.5.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-aether-provider-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-wagon-provider-api-2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-cipher-1.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-interpolation-1.14.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-utils-2.0.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-classworlds-2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-plugin-api-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-model-builder-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-sec-dispatcher-1.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-plexus-component-annotations-1.5.5.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-aether-connector-wagon-1.13.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-compat-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-wagon-http-2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-aether-api-1.13.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-settings-builder-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-aether-spi-1.13.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-core-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-wagon-http-shared4-2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-aether-util-1.13.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-artifact-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-maven-model-3.0.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jarjar-aether-impl-1.13.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/commons-lang-2.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/commons-io-1.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/ivy-2.2.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/slf4j-api-1.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/maven-ant-tasks-2.1.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jsch-0.1.51.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gson-2.2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/xbean-reflect-3.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/bcprov-jdk15-1.46.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-resources-http-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/httpclient-4.2.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/nekohtml-1.9.14.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/commons-codec-1.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/httpcore-4.2.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jcifs-1.3.17.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/jcl-over-slf4j-1.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/xml-apis-1.3.04.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/xercesImpl-2.9.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-plugin-use-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-plugins-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/groovy-all-2.3.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/ant-1.9.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/asm-all-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/junit-4.11.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/testng-6.3.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/commons-cli-1.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/ant-launcher-1.9.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/bsh-2.0b4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jcommander-1.12.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/snakeyaml-1.6.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/hamcrest-core-1.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-code-quality-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-jetty-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jetty-6.1.25.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jetty-util-6.1.25.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/servlet-api-2.5-20081211.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jetty-plus-6.1.25.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jsp-2.1-6.1.14.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jetty-annotations-6.1.25.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/geronimo-annotation_1.0_spec-1.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jetty-naming-6.1.25.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/core-3.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jsp-api-2.1-6.1.14.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-antlr-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/ant-antlr-1.9.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/antlr-2.7.7.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/gradle-wrapper-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-osgi-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/bndlib-2.1.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-maven-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/pmaven-common-0.8-20100325.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/pmaven-groovy-0.8-20100325.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/plexus-component-annotations-1.5.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-ide-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/javax.inject-1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-announce-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-scala-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-sonar-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/guava-jdk5-17.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/sonar-batch-bootstrapper-2.9.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-signing-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/bcpg-jdk15-1.46.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-ear-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-javascript-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/rhino-1.7R3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/simple-4.1.21.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-build-comparison-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-diagnostics-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-reporting-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/jatl-0.2.2.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-publish-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-ivy-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-jacoco-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-build-init-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-platform-base-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-platform-jvm-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-language-jvm-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-language-java-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-language-groovy-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-platform-native-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-language-native-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-ide-native-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-cunit-2.2.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/gradle-2.2.1/lib/plugins/gradle-plugin-development-2.2.1.jar]] and [org.gradle.tooling.internal.provider.ClientSidePayloadClassLoaderFactory$MixInClassLoader@132b01c0].
+Creating ClassLoader cf02dcb8-082e-43e6-8332-f2cb08c38d1a from org.gradle.internal.classloader.FilteringClassLoader$Spec@42b3c62c and [org.gradle.tooling.internal.provider.ClientSidePayloadClassLoaderFactory$MixInClassLoader@5c54bb6b].
+Creating ClassLoader e566ff3e-0c86-488a-9764-e6aaee93a4fb from org.gradle.internal.classloader.CachingClassLoader$Spec@a1369b1c and [org.gradle.internal.classloader.FilteringClassLoader@7080c4ab].
+Creating ClassLoader 23ed94de-e64d-4fd5-b2d9-53d582427bd4 from [Spec classpath:[file:/home/alumno_solvam/.gradle/caches/2.2.1/scripts/ijinit0_3nre7zfn226zlcyg02qtci0hy/InitScript/no_initscript/classes/]] and [org.gradle.internal.classloader.CachingClassLoader@61a96432].
+Creating ClassLoader 6bd3c9a1-29e6-4837-ba47-7b0c1d25ea34 from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/plugins/gradle/lib/gradle-tooling-extension-api.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/openapi.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/gson-2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/groovy-all-2.3.9.jar, file:/home/alumno_solvam/Escritorio/android-studio/plugins/gradle/lib/gradle-tooling-extension-impl.jar]] and [org.gradle.tooling.internal.provider.ClientSidePayloadClassLoaderFactory$MixInClassLoader@bb6a45f].
+Creating ClassLoader 196c0d14-040c-4501-a3b2-7822e74909ac from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/gradle/1.2.3/gradle-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/gradle-core/1.2.3/gradle-core-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint/24.2.3/lint-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder/1.2.3/builder-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint-checks/24.2.3/lint-checks-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/sdk-common/24.2.3/sdk-common-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder-test-api/1.2.3/builder-test-api-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/common/24.2.3/common-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder-model/1.2.3/builder-model-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/sdklib/24.2.3/sdklib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/manifest-merger/24.2.3/manifest-merger-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/ddms/ddmlib/24.2.3/ddmlib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint-api/24.2.3/lint-api-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/annotations/24.2.3/annotations-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.2.3/layoutlib-api-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/dvlib/24.2.3/dvlib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar]] and [org.gradle.internal.classloader.CachingClassLoader@61a96432].
+Tooling API is using target Gradle version: 2.2.1.
+Connected to daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=71934784-74cc-492e-af29-774242c910de.1, currentDir=/home/alumno_solvam/AndroidStudioProjects/Listview}.
+Configuration on demand is an incubating feature.
+:app:preBuild UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:app:checkDebugManifest
+:app:preReleaseBuild UP-TO-DATE
+:app:prepareComAndroidSupportAnimatedVectorDrawable2511Library
+:app:prepareComAndroidSupportAppcompatV72511Library
+:app:prepareComAndroidSupportSupportCompat2511Library
+:app:prepareComAndroidSupportSupportCoreUi2511Library
+:app:prepareComAndroidSupportSupportCoreUtils2511Library
+:app:prepareComAndroidSupportSupportFragment2511Library
+:app:prepareComAndroidSupportSupportMediaCompat2511Library
+:app:prepareComAndroidSupportSupportV42511Library
+:app:prepareComAndroidSupportSupportVectorDrawable2511Library
+:app:prepareDebugDependencies
+:app:compileDebugAidl
+:app:compileDebugRenderscript
+:app:generateDebugBuildConfig
+:app:generateDebugAssets UP-TO-DATE
+:app:mergeDebugAssets
+:app:generateDebugResValues
+:app:generateDebugResources
+:app:mergeDebugResources
+:app:processDebugManifest
+:app:processDebugResources
+:app:generateDebugSources
+:app:preDebugAndroidTestBuild UP-TO-DATE
+:app:prepareDebugAndroidTestDependencies
+:app:compileDebugAndroidTestAidl
+:app:processDebugAndroidTestManifest
+:app:compileDebugAndroidTestRenderscript
+:app:generateDebugAndroidTestBuildConfig
+:app:generateDebugAndroidTestAssets UP-TO-DATE
+:app:mergeDebugAndroidTestAssets
+:app:generateDebugAndroidTestResValues
+:app:generateDebugAndroidTestResources
+:app:mergeDebugAndroidTestResources
+:app:processDebugAndroidTestResources
+:app:generateDebugAndroidTestSources
+
+BUILD SUCCESSFUL
+
+Total time: 26.796 secs
+Received result DaemonCommandResult[type=Success, value=org.gradle.tooling.internal.provider.BuildActionResult@74113d6a] from daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}.
+Loading library manifest /tmp/manifmerge0.xml
+Merging main manifest /home/alumno_solvam/AndroidStudioProjects/Lista/app/src/main/AndroidManifest.xml
+Merging library manifest /tmp/manifmerge0.xml
+Merging manifest with lower manifmerge0.xml:1:1
+Merging application with lower manifmerge0.xml:3:5
+Warning: /tmp/manifmerge0.xml:1:1 Warning:
+	Missing 'package' declaration in manifest at manifmerge0.xml:1:1
+Tooling API is using target Gradle version: 2.2.1.
+Tooling API is using target Gradle version: 2.2.1.
+Connected to daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=6fb73252-e5c4-4f33-a362-c2b7dcab1612.1, currentDir=/home/alumno_solvam/AndroidStudioProjects/Lista}.
+
+BUILD SUCCESSFUL
+
+Total time: 12.404 secs
+Received result DaemonCommandResult[type=Success, value=org.gradle.tooling.internal.provider.BuildActionResult@3fcfb702] from daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}.
+Creating ClassLoader 0e0bc337-0e70-4791-bf53-51705eac8e9e from [Spec classpath:[file:/home/alumno_solvam/.gradle/caches/2.2.1/scripts/ijinit1_1v0div0a3b3tcxteu5c9moni/InitScript/no_initscript/classes/]] and [org.gradle.internal.classloader.CachingClassLoader@61a96432].
+Creating ClassLoader 46ce7e6d-db4b-4443-82a1-9aef3de07913 from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/plugins/gradle/lib/gradle-tooling-extension-api.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/openapi.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/gson-2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/groovy-all-2.3.9.jar, file:/home/alumno_solvam/Escritorio/android-studio/plugins/gradle/lib/gradle-tooling-extension-impl.jar]] and [org.gradle.tooling.internal.provider.ClientSidePayloadClassLoaderFactory$MixInClassLoader@2829989].
+Creating ClassLoader dd8095f8-ce1b-47f4-afaa-3728d2b79209 from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/gradle/1.2.3/gradle-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/gradle-core/1.2.3/gradle-core-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint/24.2.3/lint-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder/1.2.3/builder-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint-checks/24.2.3/lint-checks-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/sdk-common/24.2.3/sdk-common-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder-test-api/1.2.3/builder-test-api-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/common/24.2.3/common-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder-model/1.2.3/builder-model-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/sdklib/24.2.3/sdklib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/manifest-merger/24.2.3/manifest-merger-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/ddms/ddmlib/24.2.3/ddmlib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint-api/24.2.3/lint-api-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/annotations/24.2.3/annotations-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.2.3/layoutlib-api-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/dvlib/24.2.3/dvlib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar]] and [org.gradle.internal.classloader.CachingClassLoader@61a96432].
+Tooling API is using target Gradle version: 2.2.1.
+Connected to daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=88147bee-8c5c-4f01-a80e-1988463ad385.1, currentDir=/home/alumno_solvam/AndroidStudioProjects/Lista}.
+Configuration on demand is an incubating feature.
+:app:preBuild UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:app:checkDebugManifest
+:app:preReleaseBuild UP-TO-DATE
+:app:prepareComAndroidSupportAnimatedVectorDrawable2511Library
+:app:prepareComAndroidSupportAppcompatV72511Library
+:app:prepareComAndroidSupportSupportCompat2511Library
+:app:prepareComAndroidSupportSupportCoreUi2511Library
+:app:prepareComAndroidSupportSupportCoreUtils2511Library
+:app:prepareComAndroidSupportSupportFragment2511Library
+:app:prepareComAndroidSupportSupportMediaCompat2511Library
+:app:prepareComAndroidSupportSupportV42511Library
+:app:prepareComAndroidSupportSupportVectorDrawable2511Library
+:app:prepareDebugDependencies
+:app:compileDebugAidl
+:app:compileDebugRenderscript
+:app:generateDebugBuildConfig
+:app:generateDebugAssets UP-TO-DATE
+:app:mergeDebugAssets
+:app:generateDebugResValues
+:app:generateDebugResources
+:app:mergeDebugResources
+:app:processDebugManifest
+:app:processDebugResources
+:app:generateDebugSources
+:app:preDebugAndroidTestBuild UP-TO-DATE
+:app:prepareDebugAndroidTestDependencies
+:app:compileDebugAndroidTestAidl
+:app:processDebugAndroidTestManifest
+:app:compileDebugAndroidTestRenderscript
+:app:generateDebugAndroidTestBuildConfig
+:app:generateDebugAndroidTestAssets UP-TO-DATE
+:app:mergeDebugAndroidTestAssets
+:app:generateDebugAndroidTestResValues
+:app:generateDebugAndroidTestResources
+:app:mergeDebugAndroidTestResources
+:app:processDebugAndroidTestResources
+:app:generateDebugAndroidTestSources
+
+BUILD SUCCESSFUL
+
+Total time: 17.216 secs
+Received result DaemonCommandResult[type=Success, value=org.gradle.tooling.internal.provider.BuildActionResult@4fea819b] from daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}.
+Nemo-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permiso denegado
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Loading library manifest /tmp/manifmerge0.xml
+Merging main manifest /home/alumno_solvam/AndroidStudioProjects/GridView/app/src/main/AndroidManifest.xml
+Merging library manifest /tmp/manifmerge0.xml
+Merging manifest with lower manifmerge0.xml:1:1
+Merging application with lower manifmerge0.xml:3:5
+Warning: /tmp/manifmerge0.xml:1:1 Warning:
+	Missing 'package' declaration in manifest at manifmerge0.xml:1:1
+Tooling API is using target Gradle version: 2.2.1.
+Tooling API is using target Gradle version: 2.2.1.
+Connected to daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=6fbb3dca-4b32-402c-b50f-587ceba77041.1, currentDir=/home/alumno_solvam/AndroidStudioProjects/GridView}.
+
+BUILD SUCCESSFUL
+
+Total time: 13.551 secs
+Received result DaemonCommandResult[type=Success, value=org.gradle.tooling.internal.provider.BuildActionResult@64a0325a] from daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}.
+Creating ClassLoader b15efe12-ba7e-41c6-a086-50951dd0d5a5 from [Spec classpath:[file:/home/alumno_solvam/.gradle/caches/2.2.1/scripts/ijinit2_3sriqtc00stfgd0btmpohqf75/InitScript/no_initscript/classes/]] and [org.gradle.internal.classloader.CachingClassLoader@61a96432].
+Creating ClassLoader 35ac13f9-9960-427f-a3ba-334dedc2a7ea from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/plugins/gradle/lib/gradle-tooling-extension-api.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/openapi.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/gson-2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/lib/groovy-all-2.3.9.jar, file:/home/alumno_solvam/Escritorio/android-studio/plugins/gradle/lib/gradle-tooling-extension-impl.jar]] and [org.gradle.tooling.internal.provider.ClientSidePayloadClassLoaderFactory$MixInClassLoader@6574f35f].
+Creating ClassLoader a3cc862f-62ae-41ee-aba5-fecdf8833c7b from [Spec classpath:[file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/gradle/1.2.3/gradle-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/gradle-core/1.2.3/gradle-core-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/proguard/proguard-gradle/5.1/proguard-gradle-5.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint/24.2.3/lint-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder/1.2.3/builder-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/proguard/proguard-base/5.1/proguard-base-5.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/eclipse/jdt/core/compiler/ecj/4.4/ecj-4.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint-checks/24.2.3/lint-checks-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/bouncycastle/bcprov-jdk15on/1.48/bcprov-jdk15on-1.48.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/sdk-common/24.2.3/sdk-common-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder-test-api/1.2.3/builder-test-api-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm-tree/5.0.3/asm-tree-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/squareup/javawriter/2.5.0/javawriter-2.5.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/common/24.2.3/common-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/builder-model/1.2.3/builder-model-1.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/sdklib/24.2.3/sdklib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/build/manifest-merger/24.2.3/manifest-merger-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/ddms/ddmlib/24.2.3/ddmlib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm/5.0.3/asm-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/google/code/gson/gson/2.2.4/gson-2.2.4.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/bouncycastle/bcpkix-jdk15on/1.48/bcpkix-jdk15on-1.48.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/lint/lint-api/24.2.3/lint-api-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/ow2/asm/asm-analysis/5.0.3/asm-analysis-5.0.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/google/guava/guava/17.0/guava-17.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/annotations/24.2.3/annotations-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/layoutlib/layoutlib-api/24.2.3/layoutlib-api-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpclient/4.1.1/httpclient-4.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpmime/4.1/httpmime-4.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/commons/commons-compress/1.8.1/commons-compress-1.8.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/dvlib/24.2.3/dvlib-24.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/net/sf/kxml/kxml2/2.3.0/kxml2-2.3.0.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/com/android/tools/external/lombok/lombok-ast/0.2.3/lombok-ast-0.2.3.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/org/apache/httpcomponents/httpcore/4.1/httpcore-4.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/commons-logging/commons-logging/1.1.1/commons-logging-1.1.1.jar, file:/home/alumno_solvam/Escritorio/android-studio/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar]] and [org.gradle.internal.classloader.CachingClassLoader@61a96432].
+Tooling API is using target Gradle version: 2.2.1.
+Connected to daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}. Dispatching request Build{id=1925cbf2-48f8-49da-b324-2510ceac2a34.1, currentDir=/home/alumno_solvam/AndroidStudioProjects/GridView}.
+Configuration on demand is an incubating feature.
+:app:preBuild UP-TO-DATE
+:app:preDebugBuild UP-TO-DATE
+:app:checkDebugManifest
+:app:preReleaseBuild UP-TO-DATE
+:app:prepareComAndroidSupportAnimatedVectorDrawable2511Library
+:app:prepareComAndroidSupportAppcompatV72511Library
+:app:prepareComAndroidSupportSupportCompat2511Library
+:app:prepareComAndroidSupportSupportCoreUi2511Library
+:app:prepareComAndroidSupportSupportCoreUtils2511Library
+:app:prepareComAndroidSupportSupportFragment2511Library
+:app:prepareComAndroidSupportSupportMediaCompat2511Library
+:app:prepareComAndroidSupportSupportV42511Library
+:app:prepareComAndroidSupportSupportVectorDrawable2511Library
+:app:prepareDebugDependencies
+:app:compileDebugAidl
+:app:compileDebugRenderscript
+:app:generateDebugBuildConfig
+:app:generateDebugAssets UP-TO-DATE
+:app:mergeDebugAssets
+:app:generateDebugResValues
+:app:generateDebugResources
+:app:mergeDebugResources
+:app:processDebugManifest
+:app:processDebugResources
+:app:generateDebugSources
+:app:preDebugAndroidTestBuild UP-TO-DATE
+:app:prepareDebugAndroidTestDependencies
+:app:compileDebugAndroidTestAidl
+:app:processDebugAndroidTestManifest
+:app:compileDebugAndroidTestRenderscript
+:app:generateDebugAndroidTestBuildConfig
+:app:generateDebugAndroidTestAssets UP-TO-DATE
+:app:mergeDebugAndroidTestAssets
+:app:generateDebugAndroidTestResValues
+:app:generateDebugAndroidTestResources
+:app:mergeDebugAndroidTestResources
+:app:processDebugAndroidTestResources
+:app:generateDebugAndroidTestSources
+
+BUILD SUCCESSFUL
+
+Total time: 15.9 secs
+Received result DaemonCommandResult[type=Success, value=org.gradle.tooling.internal.provider.BuildActionResult@372aed65] from daemon DaemonInfo{pid=18641, address=[1936aa5d-d182-47b0-b43c-8dd6dfb2e1ed port:40888, addresses:[/0:0:0:0:0:0:0:1%1, /127.0.0.1]], idle=true, context=DefaultDaemonContext[uid=54497e47-f809-4356-8107-06f9c9ef13bd,javaHome=/usr/lib/jvm/java-7-openjdk-amd64,daemonRegistryDir=/home/alumno_solvam/.gradle/daemon,pid=18641,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=UTF-8,-Duser.country=ES,-Duser.language=es,-Duser.variant]}.
+[4536531]  ERROR - l.messages.impl.MessageBusImpl - Already disposed: Application 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.checkNotDisposed(MessageBusImpl.java:226)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:292)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:295)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:286)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:41)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:177)
+	at com.sun.proxy.$Proxy59.daemonCancelEventOccurred(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.stopDaemon(DaemonListeners.java:624)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.access$100(DaemonListeners.java:94)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$MyApplicationListener.writeActionFinished(DaemonListeners.java:438)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.EventDispatcher.dispatch(EventDispatcher.java:88)
+	at com.intellij.util.EventDispatcher.access$100(EventDispatcher.java:34)
+	at com.intellij.util.EventDispatcher$1.invoke(EventDispatcher.java:68)
+	at com.sun.proxy.$Proxy2.writeActionFinished(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.fireWriteActionFinished(ApplicationImpl.java:1352)
+	at com.intellij.openapi.application.impl.ApplicationImpl.endWrite(ApplicationImpl.java:1198)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:940)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:321)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:786)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$700(ApplicationImpl.java:87)
+	at com.intellij.openapi.application.impl.ApplicationImpl$11.run(ApplicationImpl.java:762)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:768)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:712)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$4$1.run(IdeFrameImpl.java:253)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:332)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:569)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[4536552]  ERROR - l.messages.impl.MessageBusImpl - Android Studio 1.2.1.1  Build #AI-141.1903250 
+[4536552]  ERROR - l.messages.impl.MessageBusImpl - JDK: 1.8.0_91 
+[4536552]  ERROR - l.messages.impl.MessageBusImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[4536552]  ERROR - l.messages.impl.MessageBusImpl - Vendor: Oracle Corporation 
+[4536552]  ERROR - l.messages.impl.MessageBusImpl - OS: Linux 
+[4536552]  ERROR - l.messages.impl.MessageBusImpl - Already disposed: Application 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.checkNotDisposed(MessageBusImpl.java:226)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:292)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:295)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:288)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:41)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:177)
+	at com.sun.proxy.$Proxy59.daemonCancelEventOccurred(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.stopDaemon(DaemonListeners.java:624)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.access$100(DaemonListeners.java:94)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$MyApplicationListener.writeActionFinished(DaemonListeners.java:438)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.EventDispatcher.dispatch(EventDispatcher.java:88)
+	at com.intellij.util.EventDispatcher.access$100(EventDispatcher.java:34)
+	at com.intellij.util.EventDispatcher$1.invoke(EventDispatcher.java:68)
+	at com.sun.proxy.$Proxy2.writeActionFinished(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.fireWriteActionFinished(ApplicationImpl.java:1352)
+	at com.intellij.openapi.application.impl.ApplicationImpl.endWrite(ApplicationImpl.java:1198)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:940)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:321)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:786)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$700(ApplicationImpl.java:87)
+	at com.intellij.openapi.application.impl.ApplicationImpl$11.run(ApplicationImpl.java:762)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:768)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:712)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$4$1.run(IdeFrameImpl.java:253)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:332)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:569)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - Android Studio 1.2.1.1  Build #AI-141.1903250 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - JDK: 1.8.0_91 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - Vendor: Oracle Corporation 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - OS: Linux 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - Already disposed: Application 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.checkNotDisposed(MessageBusImpl.java:226)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:292)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:295)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:286)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:41)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:177)
+	at com.sun.proxy.$Proxy59.daemonCancelEventOccurred(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.stopDaemon(DaemonListeners.java:624)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.access$100(DaemonListeners.java:94)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$MyApplicationListener.writeActionFinished(DaemonListeners.java:438)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.EventDispatcher.dispatch(EventDispatcher.java:88)
+	at com.intellij.util.EventDispatcher.access$100(EventDispatcher.java:34)
+	at com.intellij.util.EventDispatcher$1.invoke(EventDispatcher.java:68)
+	at com.sun.proxy.$Proxy2.writeActionFinished(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.fireWriteActionFinished(ApplicationImpl.java:1352)
+	at com.intellij.openapi.application.impl.ApplicationImpl.endWrite(ApplicationImpl.java:1198)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:940)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:321)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:786)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$700(ApplicationImpl.java:87)
+	at com.intellij.openapi.application.impl.ApplicationImpl$11.run(ApplicationImpl.java:762)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:768)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:712)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$4$1.run(IdeFrameImpl.java:253)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:332)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:569)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - Android Studio 1.2.1.1  Build #AI-141.1903250 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - JDK: 1.8.0_91 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - Vendor: Oracle Corporation 
+[4536553]  ERROR - l.messages.impl.MessageBusImpl - OS: Linux 
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - Already disposed: Application 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.checkNotDisposed(MessageBusImpl.java:226)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:292)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:295)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:288)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:41)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:177)
+	at com.sun.proxy.$Proxy59.daemonCancelEventOccurred(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.stopDaemon(DaemonListeners.java:624)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.access$100(DaemonListeners.java:94)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$MyApplicationListener.writeActionFinished(DaemonListeners.java:438)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.EventDispatcher.dispatch(EventDispatcher.java:88)
+	at com.intellij.util.EventDispatcher.access$100(EventDispatcher.java:34)
+	at com.intellij.util.EventDispatcher$1.invoke(EventDispatcher.java:68)
+	at com.sun.proxy.$Proxy2.writeActionFinished(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.fireWriteActionFinished(ApplicationImpl.java:1352)
+	at com.intellij.openapi.application.impl.ApplicationImpl.endWrite(ApplicationImpl.java:1198)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:940)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:321)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:786)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$700(ApplicationImpl.java:87)
+	at com.intellij.openapi.application.impl.ApplicationImpl$11.run(ApplicationImpl.java:762)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:768)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:712)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$4$1.run(IdeFrameImpl.java:253)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:332)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:569)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - Android Studio 1.2.1.1  Build #AI-141.1903250 
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - JDK: 1.8.0_91 
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - Vendor: Oracle Corporation 
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - OS: Linux 
+[4536554]  ERROR - l.messages.impl.MessageBusImpl - Already disposed: Application 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.checkNotDisposed(MessageBusImpl.java:226)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:292)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:295)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:286)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:41)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:177)
+	at com.sun.proxy.$Proxy59.daemonCancelEventOccurred(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.stopDaemon(DaemonListeners.java:624)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.access$100(DaemonListeners.java:94)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$MyApplicationListener.writeActionFinished(DaemonListeners.java:438)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.EventDispatcher.dispatch(EventDispatcher.java:88)
+	at com.intellij.util.EventDispatcher.access$100(EventDispatcher.java:34)
+	at com.intellij.util.EventDispatcher$1.invoke(EventDispatcher.java:68)
+	at com.sun.proxy.$Proxy2.writeActionFinished(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.fireWriteActionFinished(ApplicationImpl.java:1352)
+	at com.intellij.openapi.application.impl.ApplicationImpl.endWrite(ApplicationImpl.java:1198)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:940)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:321)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:786)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$700(ApplicationImpl.java:87)
+	at com.intellij.openapi.application.impl.ApplicationImpl$11.run(ApplicationImpl.java:762)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:768)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:712)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$4$1.run(IdeFrameImpl.java:253)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:332)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:569)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - Android Studio 1.2.1.1  Build #AI-141.1903250 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - JDK: 1.8.0_91 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - Vendor: Oracle Corporation 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - OS: Linux 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - Already disposed: Application 
+java.lang.Throwable
+	at com.intellij.openapi.diagnostic.Logger.error(Logger.java:115)
+	at com.intellij.util.messages.impl.MessageBusImpl.checkNotDisposed(MessageBusImpl.java:226)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:292)
+	at com.intellij.util.messages.impl.MessageBusImpl.pumpMessages(MessageBusImpl.java:295)
+	at com.intellij.util.messages.impl.MessageBusImpl.sendMessage(MessageBusImpl.java:288)
+	at com.intellij.util.messages.impl.MessageBusImpl.access$200(MessageBusImpl.java:41)
+	at com.intellij.util.messages.impl.MessageBusImpl$2.invoke(MessageBusImpl.java:177)
+	at com.sun.proxy.$Proxy59.daemonCancelEventOccurred(Unknown Source)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.stopDaemon(DaemonListeners.java:624)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners.access$100(DaemonListeners.java:94)
+	at com.intellij.codeInsight.daemon.impl.DaemonListeners$MyApplicationListener.writeActionFinished(DaemonListeners.java:438)
+	at sun.reflect.GeneratedMethodAccessor18.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.intellij.util.EventDispatcher.dispatch(EventDispatcher.java:88)
+	at com.intellij.util.EventDispatcher.access$100(EventDispatcher.java:34)
+	at com.intellij.util.EventDispatcher$1.invoke(EventDispatcher.java:68)
+	at com.sun.proxy.$Proxy2.writeActionFinished(Unknown Source)
+	at com.intellij.openapi.application.impl.ApplicationImpl.fireWriteActionFinished(ApplicationImpl.java:1352)
+	at com.intellij.openapi.application.impl.ApplicationImpl.endWrite(ApplicationImpl.java:1198)
+	at com.intellij.openapi.application.impl.ApplicationImpl.runWriteAction(ApplicationImpl.java:940)
+	at com.intellij.openapi.application.impl.ApplicationImpl.disposeSelf(ApplicationImpl.java:321)
+	at com.intellij.openapi.application.impl.ApplicationImpl.doExit(ApplicationImpl.java:786)
+	at com.intellij.openapi.application.impl.ApplicationImpl.access$700(ApplicationImpl.java:87)
+	at com.intellij.openapi.application.impl.ApplicationImpl$11.run(ApplicationImpl.java:762)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:768)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:717)
+	at com.intellij.openapi.application.impl.ApplicationImpl.exit(ApplicationImpl.java:712)
+	at com.intellij.openapi.wm.impl.IdeFrameImpl$4$1.run(IdeFrameImpl.java:253)
+	at com.intellij.openapi.application.impl.LaterInvocator$FlushQueue.run(LaterInvocator.java:332)
+	at java.awt.event.InvocationEvent.dispatch(InvocationEvent.java:311)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:756)
+	at java.awt.EventQueue.access$500(EventQueue.java:97)
+	at java.awt.EventQueue$3.run(EventQueue.java:709)
+	at java.awt.EventQueue$3.run(EventQueue.java:703)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$JavaSecurityAccessImpl.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:726)
+	at com.intellij.ide.IdeEventQueue.defaultDispatchEvent(IdeEventQueue.java:734)
+	at com.intellij.ide.IdeEventQueue._dispatchEvent(IdeEventQueue.java:569)
+	at com.intellij.ide.IdeEventQueue.dispatchEvent(IdeEventQueue.java:382)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:201)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:116)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:105)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:101)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:93)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:82)
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - Android Studio 1.2.1.1  Build #AI-141.1903250 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - JDK: 1.8.0_91 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - VM: Java HotSpot(TM) 64-Bit Server VM 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - Vendor: Oracle Corporation 
+[4536555]  ERROR - l.messages.impl.MessageBusImpl - OS: Linux 
+Nemo-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permiso denegado
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+Nemo-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permiso denegado
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+Agent unregistration failed: GDBus.Error:org.freedesktop.DBus.Error.UnknownObject: Method "UnregisterAgent" with signature "o" on interface "org.bluez.Adapter" doesn't exist
+ 'g-io-error-quark'
+=== xinerama setup Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== auto-configure - xinerama mode Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+=== Applying Configuration Configuration ===
+  Clone: false
+  Output: Portátil attached to LVDS1
+     status: on
+     width: 1366
+     height: 768
+     rate: 60
+     primary: true
+     position: 0 0
+  Output: (null) attached to VGA1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to HDMI1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to DP1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+  Output: (null) attached to VIRTUAL1
+     status: off
+     width: -1
+     height: -1
+     rate: -1
+     primary: false
+     position: -1 -1
+Cjs-Message: JS LOG: pushModal: invocation of begin_modal failed
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2600001 (Nueva pest)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+** Message: USERDATADIR= /home/alumno_solvam/.config/Brackets/live-dev-profile
+GLib-GIO-Message: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+[23856:23856:0310/120929:ERROR:url_pattern_set.cc(240)] Invalid url pattern: chrome://print/*
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x3400001 (Sin títul)
+[23890:23890:0310/110931:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:681844F8]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23856:23886:0310/120932:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+[23890:23890:0310/110932:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68B487F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/111018:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68B087F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/111042:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68240AFF]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/111045:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68200AFF]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/112928:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68380AFF]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23856:23886:0310/122935:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+Fontconfig error: Cannot load default config file
+[23890:23890:0310/112936:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68BC87F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/112949:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68F8F2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/113906:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68ECF2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/113909:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68E0F2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/113912:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68F0F2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[23890:23890:0310/120905:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68FCF2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/120908:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68BC87F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23856:23886:0310/130957:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+[23890:23890:0310/121115:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68F0F2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/121133:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68B887F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/121135:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68E8F2EB]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/121149:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68B487F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23856:23886:0310/131153:ERROR:channel.cc(300)] RawChannel read error (connection broken)
+[23890:23890:0310/121155:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68200AFF]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+Window manager warning: Buggy client sent a _NET_ACTIVE_WINDOW message with a timestamp of 0 for 0x2e00001 (GitKraken)
+[23890:23890:0310/121830:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68B487F9]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/121832:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:686411DD]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/121838:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:686811DD]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/121931:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68A45CE1]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/122026:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68AC5CE1]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[WARNING:flash/platform/pepper/pep_module.cpp(63)] SANDBOXED
+[23890:23890:0310/123419:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:686411DD]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/123425:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:687011DD]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+[23890:23890:0310/123433:ERROR:gles2_cmd_decoder.cc(11539)] [GroupMarkerNotSet(crbug.com/242999)!:68200AFF]GL ERROR :GL_INVALID_OPERATION : glTexStorage2DEXT: <- error from previous GL command
+Nemo-Share-Message: Called "net usershare info" but it failed: La «red compartida» devolvió el error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error Permiso denegado
+You do not have permission to create a usershare. Ask your administrator to grant you permissions to create a share.
+
